@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPOSITORY=/home/ec2-user/app/phase2
+REPOSITORY=/home/ec2-user/app/phase3
 PROJECT_NAME=spring-boot
 
 echo "> Build 파일 복사"
