@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source:  /
-    destination: /home/ec2-user/app/phase2/zip/
+    destination: /home/ec2-user/app/phase3/zip/
     overwrite: yes
 
 permissions:
