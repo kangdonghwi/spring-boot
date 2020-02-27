@@ -1,5 +1,7 @@
 # springboot로 만드는 게시판
 
+## http://ec2-15-165-148-149.ap-northeast-2.compute.amazonaws.com/
+
 ### 개발 도구 : 인텔리제이
 ### 빌드 도구 : gradle
 ### 테스트 프레임워크 : JUnit
